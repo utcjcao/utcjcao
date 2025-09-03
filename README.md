@@ -1,8 +1,9 @@
-Hi, I'm Chris and I'm a 3rd year CS student at University of Toronto.
+## Chris Cao
+#### 3rd year CS student at University of Toronto, St. George
 
-Things I'm up to:
-- 
+Current Projects
+- Redesigning ASSU website
 
-Things I'm interested in:
-- 
+Interests
+- Infrastructure
 
